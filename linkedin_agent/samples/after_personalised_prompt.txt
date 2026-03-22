@@ -1,0 +1,36 @@
+AFTER — Personalised Prompt (MY_STYLE.md + 3 Example Posts as Few-Shot)
+Source article: Man pleads guilty to $8M AI-generated music scheme
+Generated with: Style profile (Option B) + real example posts (Option A) injected
+════════════════════════════════════════════════════════════════════════════════
+
+𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗘𝗰𝗼𝗻𝗼𝗺𝘆 | 𝗔𝗻 $𝟴𝗠 𝗳𝗿𝗮𝘂𝗱 𝗷𝘂𝘀𝘁 𝗲𝘅𝗽𝗼𝘀𝗲𝗱 𝗵𝗼𝘄 𝗳𝗿𝗮𝗴𝗶𝗹𝗲 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗲𝗰𝗼𝗻𝗼𝗺𝗶𝗰𝘀 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗮𝗿𝗲.
+
+A man just pleaded guilty to generating hundreds of thousands of AI songs, streaming them billions of times with bots, and collecting $8M in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music.
+
+He did this for years before getting caught.
+
+That number stopped me: $8M extracted from systems designed to pay creators fairly.
+
+🚨 𝗪𝗵𝗮𝘁 𝘁𝗵𝗶𝘀 𝗲𝘅𝗽𝗼𝘀𝗲𝘀
+
+--> AI content generation is now trivial. Hundreds of thousands of songs is not hard anymore.
+
+--> Bot behavior at scale fooled every major streaming platform's fraud detection.
+
+--> Payment systems built on consumption metrics alone are structurally vulnerable when both content creation and consumption can be faked.
+
+💡 𝗧𝗵𝗲 𝗣𝗠 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝘁𝗵𝗶𝘀 𝗿𝗮𝗶𝘀𝗲𝘀
+
+If you are building in the creator economy, your metrics might be lying to you right now.
+
+How many of your active users are real? How much of your content is AI-generated and undisclosed? If your monetization model pays based on views, streams, or clicks — where is it vulnerable to this exact attack?
+
+I have been thinking about this for my own work. The honest answer: I do not know if our engagement metrics are clean. We have basic bot detection, but nothing that verifies content origin or distinguishes genuine human behavior from sophisticated synthetic activity.
+
+The gap between "this metric looks good" and "this metric represents real human value" just got wider.
+
+This is not a streaming-only problem. Any platform paying creators based on consumption metrics has the same structural risk.
+
+𝘏𝘰𝘸 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘥𝘪𝘴𝘁𝘪𝘯𝘨𝘶𝘪𝘴𝘩𝘪𝘯𝘨 𝘨𝘦𝘯𝘶𝘪𝘯𝘦 𝘶𝘴𝘦𝘳 𝘦𝘯𝘨𝘢𝘨𝘦𝘮𝘦𝘯𝘵 𝘧𝘳𝘰𝘮 𝘴𝘺𝘯𝘵𝘩𝘦𝘵𝘪𝘤 𝘢𝘤𝘵𝘪𝘷𝘪𝘵𝘺 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘱𝘳𝘰𝘥𝘶𝘤𝘵 𝘵𝘰𝘥𝘢𝘺?
+
+#ProductManagement #CreatorEconomy #FraudDetection #AIContent #PlatformEconomics #ProductThinking

@@ -1,0 +1,29 @@
+BEFORE — Generic Prompt (No Personalisation)
+Source article: Man pleads guilty to $8M AI-generated music scheme
+Generated with: Standard "write for Product Managers" prompt
+════════════════════════════════════════════════════════════════
+
+𝗙𝗿𝗮𝘂𝗱 | 𝗔 𝟱𝟰-𝘆𝗲𝗮𝗿-𝗼𝗹𝗱 𝗺𝗮𝗱𝗲 $𝟴𝗠 𝗳𝗼𝗼𝗹𝗶𝗻𝗴 𝗦𝗽𝗼𝘁𝗶𝗳𝘆, 𝗔𝗽𝗽𝗹𝗲 𝗠𝘂𝘀𝗶𝗰, 𝗮𝗻𝗱 𝗬𝗼𝘂𝗧𝘂𝗯𝗲'𝘀 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀. 𝗛𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗣𝗠 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 𝗻𝗼𝗯𝗼𝗱𝘆 𝗶𝘀 𝘁𝗮𝗹𝗸𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁.
+
+Michael Smith just pled guilty to an $8M streaming fraud scheme. The setup: hundreds of thousands of AI-generated songs + thousands of fake accounts streaming them 24/7 across every major platform.
+
+The fraud itself isn't what worries me. It's what it exposes.
+
+🚨 𝗧𝗵𝗲 𝗿𝗲𝗮𝗹 𝗽𝗿𝗼𝗯𝗹𝗲𝗺
+
+If your product relies on engagement metrics to drive decisions, those metrics might already be compromised.
+
+--> Streams, plays, clicks, session duration — these are the KPIs we trust for recommendations, monetization models, and product prioritization.
+
+--> What if 15% of that engagement is synthetic? What if it's 30%? How would you even know?
+
+I looked at my own product dashboards this week with fresh eyes. User activity trending up? Great signal, or bot farms gaming our onboarding funnel? Engagement rate improving? Real users, or AI-generated content inflating time-on-page?
+
+The uncomfortable truth: most products weren't designed to distinguish authentic engagement from manufactured noise at scale.
+
+💡 𝗧𝗵𝗲 𝗵𝗼𝗻𝗲𝘀𝘁 𝘁𝗮𝗸𝗲
+
+This isn't a music industry problem. It's a platform economics problem.
+
+[NOTE: This post was truncated — generated before max_tokens fix. The full
+ personalised version in after.txt shows the complete output.]

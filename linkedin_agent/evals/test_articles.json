@@ -1,0 +1,66 @@
+[
+  {
+    "id": "article_001",
+    "title": "OpenAI releases GPT-5 with real-time reasoning and tool use",
+    "description": "OpenAI's latest flagship model introduces a 'thinking' mode that shows step-by-step reasoning. Enterprise customers can now chain tools like web search, code execution, and document analysis in a single prompt, dramatically reducing the need for custom integrations.",
+    "source": "The Verge",
+    "url": "https://theverge.com/openai-gpt5",
+    "published_at": "2026-03-19T08:00:00Z"
+  },
+  {
+    "id": "article_002",
+    "title": "EU AI Act enforcement begins: companies must now document AI decision-making",
+    "description": "The European Union has started enforcing the first wave of AI Act requirements. Companies deploying high-risk AI systems must now maintain detailed audit logs, provide explainability reports, and designate an AI compliance officer — or face fines up to 3% of global revenue.",
+    "source": "Reuters",
+    "url": "https://reuters.com/eu-ai-act",
+    "published_at": "2026-03-18T10:30:00Z"
+  },
+  {
+    "id": "article_003",
+    "title": "Anthropic launches Claude for Enterprise with 500K context window",
+    "description": "Anthropic's latest enterprise tier supports a 500,000-token context window — enough to process entire codebases or year-long email threads in one go. The release also includes fine-tuning capabilities and an admin dashboard for usage analytics.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/anthropic-enterprise",
+    "published_at": "2026-03-18T14:00:00Z"
+  },
+  {
+    "id": "article_004",
+    "title": "AI agents now handle 40% of customer support tickets at top SaaS firms",
+    "description": "A new McKinsey study finds that leading SaaS companies have automated 40% of Tier-1 customer support using AI agents. The agents handle password resets, billing queries, and onboarding questions without human escalation, reducing CSAT response time by 68%.",
+    "source": "McKinsey Insights",
+    "url": "https://mckinsey.com/ai-support",
+    "published_at": "2026-03-17T09:00:00Z"
+  },
+  {
+    "id": "article_005",
+    "title": "Google DeepMind's Gemini 2.5 beats human expert benchmarks on 12 domains",
+    "description": "Google DeepMind released Gemini 2.5, which surpasses average human expert performance on benchmarks spanning medicine, law, financial analysis, and software engineering. The model uses a new 'mixture of experts' architecture that dynamically routes queries to specialised sub-models.",
+    "source": "DeepMind Blog",
+    "url": "https://deepmind.google/gemini-2-5",
+    "published_at": "2026-03-17T12:00:00Z"
+  },
+  {
+    "id": "article_006",
+    "title": "Nvidia announces Blackwell Ultra GPUs optimised for inference at scale",
+    "description": "Nvidia's new Blackwell Ultra series delivers 4x inference throughput compared to H100s, targeting companies running large-scale AI inference in production. Pricing drops make deploying LLMs 60% cheaper per token than last year.",
+    "source": "Wired",
+    "url": "https://wired.com/nvidia-blackwell-ultra",
+    "published_at": "2026-03-16T11:00:00Z"
+  },
+  {
+    "id": "article_007",
+    "title": "AI-powered product analytics tools now automatically surface churn signals",
+    "description": "A new wave of AI-native product analytics platforms (including Amplitude AI and Mixpanel Intelligence) can now automatically identify behavioural patterns that predict churn 30 days in advance, suggest A/B tests to address them, and even draft the product brief.",
+    "source": "Product Hunt",
+    "url": "https://producthunt.com/ai-analytics",
+    "published_at": "2026-03-16T08:00:00Z"
+  },
+  {
+    "id": "article_008",
+    "title": "Microsoft Copilot now auto-generates PRDs from meeting transcripts",
+    "description": "Microsoft's latest Copilot update for Teams and Office 365 can listen to a product discovery meeting, extract requirements discussed, and generate a structured PRD with user stories, acceptance criteria, and open questions — ready for Jira import.",
+    "source": "Microsoft Blog",
+    "url": "https://microsoft.com/copilot-prd",
+    "published_at": "2026-03-15T16:00:00Z"
+  }
+]

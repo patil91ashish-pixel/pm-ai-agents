@@ -1,0 +1,46 @@
+# pm-ai-agents .gitignore
+# ──────────────────────────────────────────────────────────────────────────────
+# This file tells git which files to NEVER commit to the public repo.
+# The key rule: anything with real secrets, personal data, or runtime
+# artefacts belongs here.
+
+# ── API Keys & Secrets ────────────────────────────────────────────────────────
+# NEVER commit the real .env file. Use .env.example instead.
+.env
+*.env
+!.env.example
+
+# ── Personal Voice & Style Files ─────────────────────────────────────────────
+# MY_STYLE.md and my_posts.md contain your real LinkedIn writing style
+# and personal post examples. Keep them local; share the .example versions.
+MY_STYLE.md
+my_posts.md
+
+# ── Generated Outputs ─────────────────────────────────────────────────────────
+# The output/ folder contains your actual generated LinkedIn posts and
+# posting history. This is personal content — not for public sharing.
+# See samples/ for curated before/after examples instead.
+output/
+
+# ── Eval Results ──────────────────────────────────────────────────────────────
+# Run-specific eval results are noisy and machine-specific.
+evals/results/
+
+# ── Python Artefacts ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# ── macOS System Files ────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDE & Editor Files ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
