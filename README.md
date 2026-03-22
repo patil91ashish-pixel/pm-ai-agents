@@ -33,7 +33,7 @@ Each agent follows the same design principles:
 
 I write about what I'm building on LinkedIn. If you find this useful, follow along:
 
-**[linkedin.com/in/ashish-patil-pm](https://www.linkedin.com/in/ashish-patil-pm)**
+**[linkedin.com/in/ashish-patil-pm](https://www.linkedin.com/in/patil91ashish/)**
 
 ---
 
