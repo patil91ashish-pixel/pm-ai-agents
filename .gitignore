@@ -24,7 +24,7 @@ output/
 
 # ── Eval Results ──────────────────────────────────────────────────────────────
 # Run-specific eval results are noisy and machine-specific.
-evals/results/
+**/evals/results/
 
 # ── Python Artefacts ──────────────────────────────────────────────────────────
 __pycache__/
